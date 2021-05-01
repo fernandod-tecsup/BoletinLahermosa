@@ -5,23 +5,35 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_home"
-            android:icon="@drawable/uno"
+            android:icon="@drawable/iglesia2"
             android:title="@string/menu_home" />
         <item
             android:id="@+id/nav_gallery"
-            android:icon="@drawable/cuatro"
+            android:icon="@drawable/pulpito"
             android:title="@string/menu_gallery" />
         <item
             android:id="@+id/nav_slideshow"
-            android:icon="@drawable/tres"
+            android:icon="@drawable/orando"
             android:title="@string/menu_slideshow" />
         <item
-            android:id="@+id/nav_slideshow2"
-            android:icon="@drawable/predica"
-            android:title="@string/menu_slideshow" />
+            android:id="@+id/nav_anuncios"
+            android:icon="@drawable/angel"
+            android:title="@string/menu_anuncios" />
         <item
-            android:id="@+id/nav_slideshow3"
+            android:id="@+id/nav_eventos"
             android:icon="@drawable/inicio"
-            android:title="@string/menu_slideshow" />
+            android:title="@string/menu_eventos" />
+        <item
+            android:id="@+id/nav_avisopublic"
+            android:icon="@drawable/uno"
+            android:title="@string/menu_avisospublic" />
+        <item
+            android:id="@+id/nav_nuestrareu"
+            android:icon="@drawable/cuatro"
+            android:title="@string/menu_nuestareu" />
+        <item
+            android:id="@+id/nav_ofresoli"
+            android:icon="@drawable/tres"
+            android:title="@string/menu_ofresoli" />
     </group>
 </menu>
